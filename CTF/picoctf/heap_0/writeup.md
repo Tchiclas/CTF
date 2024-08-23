@@ -26,4 +26,4 @@ Artifact Files:
   
 
 ---
-[Back to home](</picoctf/main.md>)
+[Back to home](</CTF/picoctf/main.md>)
