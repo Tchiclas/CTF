@@ -11,7 +11,7 @@ Writeups for picoctf practice challenges: [picoctf](<play.picoctf.org/practice>)
 - Reverse Engineering/Malware
 
  - Pwn/Binary Exploitation
-   - [x] [<heap 0>](<'heap 0'/writeup.md>)
+   - [x] [<heap 0>](<'heap_0'/writeup.md>)
 
 - Networking
 
