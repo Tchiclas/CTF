@@ -1,4 +1,4 @@
-## Challenge Name: <name>
+## Challenge Name: Heap 0
 Category: Binary Exploitation
 Points: 0
 Solves: 8,906
