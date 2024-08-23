@@ -75,4 +75,4 @@ Now that we understand how the exploit works we can automate it! Check this simp
  With this challenge we can refresh some of the basic debugger's behaviour. 
 
 ---
-[Back to home](</CTF/picoctf/main.md>)
+[Back to home](</CTF/picoctf/README.md>)
