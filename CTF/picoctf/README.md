@@ -7,6 +7,7 @@ Writeups for picoctf practice challenges: [picoctf](<play.picoctf.org/practice>)
 - Crypto/Stego
   
 - Forensics
+   - [x] [verify](<verify/README.md>)
 
 - Reverse Engineering/Malware
 
