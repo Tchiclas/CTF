@@ -7,7 +7,7 @@ Writeups for picoctf practice challenges: [picoctf](<play.picoctf.org/practice>)
 - Crypto/Stego
   
 - Forensics
-  
+
 - Reverse Engineering/Malware
 
  - Pwn/Binary Exploitation
@@ -26,3 +26,4 @@ Writeups for picoctf practice challenges: [picoctf](<play.picoctf.org/practice>)
 - OSINT
 
 - Miscellaneous
+  - [x] [time_machine](<time_machine/README.md>)
